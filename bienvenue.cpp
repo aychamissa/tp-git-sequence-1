@@ -1,6 +1,8 @@
+  #include <iostream>
+
   int main()
   {
-   std::count << "Bienvenue le monde ! << std::end1;
+   std::cout << "Bienvenue le monde !" << std::endl;
    
    return 0;
   }
