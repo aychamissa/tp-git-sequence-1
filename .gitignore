@@ -1,0 +1,12 @@
+bienvenue
+*.exe
+*.out
+
+*.o
+*.obj
+
+*.a
+*.so
+
+
+build/
