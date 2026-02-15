@@ -1,8 +1,8 @@
 #include "fonction-bienvenue.h"
 #include <iostream>
 
-void afficherBienvenue()
+void afficherBienvenue(std::string message)
 
 {
-  std::cout << "Bienvenue le monde !" << std::end1;
+  std::cout << message  << std::end1;
 }
